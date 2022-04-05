@@ -1,0 +1,7 @@
+#ok-1,#ok-2,#ok-3{
+    font-size: x-small;
+    font-weight: bold;
+    position: absolute;
+    display: none;
+    color: red;
+}
